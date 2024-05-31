@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Vedik-jain/static/css/main.deb1a555.css",
-    "main.js": "/Vedik-jain/static/js/main.8b7be4d8.js",
-    "static/js/453.1dd27908.chunk.js": "/Vedik-jain/static/js/453.1dd27908.chunk.js",
-    "index.html": "/Vedik-jain/index.html",
-    "main.deb1a555.css.map": "/Vedik-jain/static/css/main.deb1a555.css.map",
-    "main.8b7be4d8.js.map": "/Vedik-jain/static/js/main.8b7be4d8.js.map",
-    "453.1dd27908.chunk.js.map": "/Vedik-jain/static/js/453.1dd27908.chunk.js.map"
+    "main.css": "/VD-design.git/static/css/main.deb1a555.css",
+    "main.js": "/VD-design.git/static/js/main.c93d8b3c.js",
+    "static/js/453.1dd27908.chunk.js": "/VD-design.git/static/js/453.1dd27908.chunk.js",
+    "index.html": "/VD-design.git/index.html",
+    "main.deb1a555.css.map": "/VD-design.git/static/css/main.deb1a555.css.map",
+    "main.c93d8b3c.js.map": "/VD-design.git/static/js/main.c93d8b3c.js.map",
+    "453.1dd27908.chunk.js.map": "/VD-design.git/static/js/453.1dd27908.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.deb1a555.css",
-    "static/js/main.8b7be4d8.js"
+    "static/js/main.c93d8b3c.js"
   ]
 }
